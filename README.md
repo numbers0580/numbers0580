@@ -37,10 +37,11 @@ Audience: (laughs as security guards finally catch me)
 Me: (while being dragged away by the arms) "You just need to find the right addiction, the perfect addiction to give your life meaning. I am a proud programming addict, and so can you!"  
   
   
-
+  
 Skills:  
 
 Mathematics | HTML/CSS | Javascript | React | Redux | Self-deprecation | Java | Spring | Android | XML | Python (somewhat)  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
 
 <!--
