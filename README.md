@@ -54,7 +54,7 @@ Mathematics | HTML/CSS | Javascript | React | Redux | Java | Spring | Android | 
   
 **Contact Method(s)**  
 - [Email](mailto:pj.wood2@gmail.com)  
-- [Text Message](tel:7193216103)
+- [Text Message](7193216103)
 - No Voice Calls: Due to the near-ubiquity of scam calls, my default habit is to ignore any unrecognized phone numbers
 
 
