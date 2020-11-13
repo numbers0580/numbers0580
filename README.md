@@ -45,7 +45,7 @@ Obviously, I've been practicing other creative outlets, as well.
 Mathematics | HTML/CSS | Javascript | React | Redux | Java | Spring | C++ | Android | XML | Python (somewhat)  
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
   
-**Portfolio** 👍  
+**Portfolio:** 💻  
 Collection is still in development, but I have one show piece available. That link below will serve as a placeholder, for now.  
 [Portfolio](http://www.overtapped.com/conway)
 
@@ -56,7 +56,7 @@ Collection is still in development, but I have one show piece available. That li
 - Self-deprecation: I love to make fun of myself. It serves as a continually-active stress-reliever
 - Hiking: We are playing 4 truths and a lie, right?  
   
-**Contact Method(s)** 📱  
+**Contact Method(s):** 📱  
 - [Email](mailto:pj.wood2@gmail.com)  
 - [Text Message](mailto:7193216103@messaging.sprintpcs.com)
 - No Voice Calls: Due to the near-ubiquity of scam calls, my default habit is to ignore any unrecognized phone numbers
