@@ -44,6 +44,10 @@ Obviously, I've been practicing other creative outlets, as well.
 
 Mathematics | HTML/CSS | Javascript | React | Redux | Java | Spring | Android | XML | Python (somewhat)  
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+  
+**Portfolio**
+Collection is still in development, but I have one show piece available. That link below will serve as a placeholder, for now.
+[Portfolio](www.overtapped.com/conway)
 
 **Hobbies:**  
 - Drawing: I'm still no expert, but I keep practicing with GIMP, so I can make my own animations
