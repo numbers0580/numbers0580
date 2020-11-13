@@ -5,6 +5,7 @@ Disclaimer: While inspired by true events, the following story is fictional and 
 Setting: Hotel conference room. A sizable audience is in attendance.
 
 Host: "Okay, who's next?"  
+
 Me: (raises my hand)  
 Host: "Glad to have a volunteer! Please share your story."  
 Me: "Hi, everyone. My name is Peter Wood... and I am a Software Engineer."  
