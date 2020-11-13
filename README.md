@@ -1,4 +1,4 @@
-### Welcome! Shhh! The show is about to begin. 👋
+### Welcome! Shhh! The show is about to begin. 🤫
 
 Disclaimer: While inspired by true events, the following story is fictional and does not depict any actual person or events.
 
@@ -66,7 +66,7 @@ Collection is still in development, but I have one show piece available. That li
 **numbers0580/numbers0580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
