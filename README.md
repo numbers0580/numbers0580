@@ -1,4 +1,4 @@
-### Welcome 👋
+### Welcome! Shhh! The show is about to begin. 👋
 
 Disclaimer: While inspired by true events, the following story is fictional and does not depict any actual person or events.
 
