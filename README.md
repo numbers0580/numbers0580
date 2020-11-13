@@ -22,7 +22,7 @@ Me: (ignoring everyone): "It all started when I was a kid, maybe 12 or 13 years 
 
 Host: "Seriously, Peter, wrong room! I'll get the hotel clerk to help you find the right meeting for ..."  
 
-Me: "... I excelled in Math and the sciences. As a result, I was invited to enroll in a Computer Programming class in high school. I immediately fell in love. You see, while I was advancing in the natural sciences, I struggled and floundered with anything creative. I couldn't draw or paint, write, play music, or dance. But programming bridged that logical side of my mind with the budding creative side. And yes, I felt a rush -- a high -- I never felt before, and I craved more ..."  
+Me: "... and I excelled in Math and the sciences. As a result, I was invited to enroll in a Computer Programming class in high school. I immediately fell in love. You see, while I was advancing in the natural sciences, I struggled and floundered with anything creative. I couldn't draw or paint, write, play music, or dance. But programming bridged that logical side of my mind with the budding creative side. And yes, I felt a rush -- a high -- I never felt before, and I craved more ..."  
 
 Hotel Clerk: "Hello, sir. If you'll please follow me, I can help you find the conference room you're ..."  
 
@@ -47,7 +47,7 @@ Mathematics | HTML/CSS | Javascript | React | Redux | Java | Spring | Android | 
   
 **Portfolio**  
 Collection is still in development, but I have one show piece available. That link below will serve as a placeholder, for now.  
-[Portfolio](www.overtapped.com/conway)
+[Portfolio](http://www.overtapped.com/conway)
 
 **Hobbies:**  
 - Drawing: I'm still no expert, but I keep practicing with GIMP, so I can make my own animations
