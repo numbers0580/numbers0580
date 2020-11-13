@@ -38,7 +38,7 @@ Me: (while being dragged away by the arms) "You just need to find the right addi
   
   
   
-Skills:  
+**Skills:**  
 
 Mathematics | HTML/CSS | Javascript | React | Redux | Self-deprecation | Java | Spring | Android | XML | Python (somewhat)  
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
