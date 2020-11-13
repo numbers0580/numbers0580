@@ -42,8 +42,8 @@ Obviously, I've been practicing other creative outlets, as well.
   
 **Skills:** 💪  
 
-Mathematics | HTML/CSS | Javascript | React | Redux | Java | Spring | Android | XML | Python (somewhat)  
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Mathematics | HTML/CSS | Javascript | React | Redux | Java | Spring | C++ | Android | XML | Python (somewhat)  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
   
 **Portfolio** 👍  
 Collection is still in development, but I have one show piece available. That link below will serve as a placeholder, for now.  
