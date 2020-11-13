@@ -53,8 +53,8 @@ Mathematics | HTML/CSS | Javascript | React | Redux | Java | Spring | Android | 
 - Hiking: We are playing 4 truths and a lie, right?  
   
 **Contact Method(s)**  
-- [Email](pj.wood2@gmail.com)  
-- [Text Message](719-321-6103)
+- [Email](mailto:pj.wood2@gmail.com)  
+- [Text Message](tel:7193216103)
 - No Voice Calls: Due to the near-ubiquity of scam calls, my default habit is to ignore any unrecognized phone numbers
 
 
