@@ -51,7 +51,7 @@ Collection is still in development, but I have one show piece available. That li
 
 **Hobbies:**  
 - Drawing: I'm still no expert, but I keep practicing with GIMP, so I can make my own animations
-- Poker: I know you're seeing `Mathematics` above, but this is the wrong game for counting cards. However, I do utilize Probability & Statistics
+- Poker: I know you're seeing `Mathematics` above, but this is the wrong game for counting cards. However, I do utilize Probability & Statistics to determine odds of potential outs
 - Woodworking: I have a growing collection of tools. My most recent one is a Dewalt Jigsaw. I made several pieces over the years, most recently an elliptical Poker Table that seats 6 people and lined with black vinyl and a burgundy colored upholstery fabric
 - Self-deprecation: I love to make fun of myself. It serves as a continually-active stress-reliever
 - Hiking: We are playing 4 truths and a lie, right?  
