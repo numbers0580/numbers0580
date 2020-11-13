@@ -46,7 +46,7 @@ Mathematics | HTML/CSS | Javascript | React | Redux | Java | Spring | Android | 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
   
 **Portfolio**  
-Collection is still in development, but I have one show piece available. That link below will serve as a placeholder, for now.
+Collection is still in development, but I have one show piece available. That link below will serve as a placeholder, for now.  
 [Portfolio](www.overtapped.com/conway)
 
 **Hobbies:**  
