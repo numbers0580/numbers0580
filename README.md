@@ -38,10 +38,19 @@ Me: (while being dragged away by the arms) "You just need to find the right addi
   
   
   
+Obviously, I've been practicing other creative outlets, as well.  
+  
 **Skills:**  
 
-Mathematics | HTML/CSS | Javascript | React | Redux | Self-deprecation | Java | Spring | Android | XML | Python (somewhat)  
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Mathematics | HTML/CSS | Javascript | React | Redux | Java | Spring | Android | XML | Python (somewhat)  
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
+**Hobbies:**  
+- Drawing: I'm still no expert, but I keep practicing with GIMP, so I can make my own animations
+- Poker: I know you're seeing `Mathematics` above, but this is the wrong game for counting cards. However, I do utilize Probability & Statistics
+- Woodworking: I have a growing collection of tools. My most recent one is a Dewalt Jigsaw. I made several pieces over the years, most recently an elliptical Poker Table that seats 6 people and lined with black vinyl and a burgundy colored upholstery fabric
+- Self-deprecation: I love to make fun of myself. It serves as a continually-active stress-reliever
+- Hiking: We are playing 4 truths and a lie, right?
 
 
 <!--
